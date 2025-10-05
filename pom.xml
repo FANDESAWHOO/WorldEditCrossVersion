@@ -81,14 +81,14 @@
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
             <version>1.21.1-R0.1-SNAPSHOT</version>
-        </dependency>-->
+        </dependency>
          <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
             <version>1.8.8-R0.1-SNAPSHOT</version>
             <scope>system</scope>
             <systemPath>${spigot-api-systemPath}</systemPath>
-        </dependency>
+        </dependency> -->
         
         <dependency>
             <groupId>com.github.FANDESAWHOO</groupId>
