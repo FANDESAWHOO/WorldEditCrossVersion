@@ -89,7 +89,11 @@
             <scope>system</scope>
             <systemPath>${spigot-api-systemPath}</systemPath>
         </dependency> -->
-        
+        <dependency>
+            <groupId>com.github.Wind-Development</groupId>
+            <artifactId>WindSpigot</artifactId>
+            <version>v2.1.2-hotfix</version>
+        </dependency>
         <dependency>
             <groupId>com.github.FANDESAWHOO</groupId>
             <artifactId>Factions</artifactId>
